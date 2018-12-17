@@ -1,4 +1,4 @@
-# Just Eat Technical Test
+# Front-end as an automation service
 This markdown file provides answers to the technical questions as per the technical spec.
 
 ### Install dependencies
