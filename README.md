@@ -1,5 +1,4 @@
-# Just Eat Technical Test
-This markdown file provides answers to the technical questions as per the technical spec.
+# Front-end as an automation service
 
 ### Install dependencies
 Run the following command to install all dependencies specified in the *package.json* file in order to run the tests.
